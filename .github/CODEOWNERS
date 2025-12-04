@@ -81,7 +81,7 @@
 /extensions/any-website-search                                      @pernielsentikaer @TakenMC
 /extensions/anybox                                                  @francisfeng @iDarkHusky
 /extensions/anycoffee                                               @aymericio
-/extensions/anytype                                                 @jmetrikat
+/extensions/anytype                                                 @jmetrikat @Juoper
 /extensions/apify                                                   @xmok
 /extensions/app-creator                                             @EvanZhouDev
 /extensions/app-icon-generator                                      @hunter-ji @pernielsentikaer
@@ -101,6 +101,7 @@
 /extensions/appwrite                                                @xmok
 /extensions/arabic-keyboard                                         @mSarheed
 /extensions/arc                                                     @thomaspaulmann @zach-fuller @ankitchouhan1020 @pernielsentikaer @danpalmer @rgrunberg @tleo19 @loris @bdsqqq @xilopaint @jayeshbhole @hinzed1127 @omar-salama @underscoregeb @ridemountainpig @nebbles @alanxmay @gdsmith @EasyKey5 @Pavelas
+/extensions/arc-helper                                              @pcho @pernielsentikaer
 /extensions/archiver                                                @404J @3llomi
 /extensions/are-na                                                  @alvinashiatey @xmok
 /extensions/array-this                                              @matheus-depaula
@@ -296,7 +297,7 @@
 /extensions/claude                                                  @florisdobber @alejandrot96 @FelixLisczyk @gcordalis @rortan134 @ridemountainpig @pernielsentikaer @ridjis @mhrmsn
 /extensions/claude-code-cheatsheet                                  @harumeri
 /extensions/claude-code-launcher                                    @stephendolan
-/extensions/clean-keyboard                                          @ike-gg @owain-williams @xilopaint @ridemountainpig
+/extensions/clean-keyboard                                          @ike-gg @owain-williams @xilopaint @ridemountainpig @LitoMore
 /extensions/clean-text                                              @MoisesCervera
 /extensions/cleanshotx                                              @Aayush9029 @thomaslombart @lukaszmtw @erics118 @mlnchk @pernielsentikaer
 /extensions/clear-clipboard                                         @d3caf
