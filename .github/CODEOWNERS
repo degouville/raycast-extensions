@@ -524,6 +524,7 @@
 /extensions/deta-space                                              @deta @SlumberDemon
 /extensions/deutscherwetterdienst                                   @NicolaiSchmid
 /extensions/dev-to                                                  @aeither @xmok
+/extensions/devcontainer-features                                   @keito4
 /extensions/devdocs                                                 @djpowers @pernielsentikaer @j3lte @0xdhrv
 /extensions/developer-excuse                                        @niemtec
 /extensions/devonthink                                              @kudrykv
@@ -812,7 +813,7 @@
 /extensions/ghostty                                                 @JarryChung @FriendlyUsername @AlexIsMaking @mathisfoxius
 /extensions/ghq                                                     @konojunya @alinnow
 /extensions/gif-search                                              @josephschmitt @tmwrnr @j3lte @samuelkraft @ridemountainpig @Spookywy @seanparkross @YourMCGeek @thomaspaulmann @artisticmedic
-/extensions/gift-stardew-valley                                     @NaoRojas
+/extensions/gift-stardew-valley                                     @NaoRojas @myusualonewastaken
 /extensions/gistly                                                  @rafalzawadzki
 /extensions/git                                                     @Ernest0-Production
 /extensions/git-assistant                                           @validatedev
@@ -1025,7 +1026,7 @@
 /extensions/infomaniak                                              @xmok
 /extensions/ingredients-lister                                      @Visual-Studio-Coder
 /extensions/initium                                                 @toto-minai
-/extensions/inkdrop                                                 @yaeda
+/extensions/inkdrop                                                 @yaeda @k-and
 /extensions/inkeep                                                  @marcklingen
 /extensions/inoreader                                               @lemikeone
 /extensions/inpost-parcel-lockers                                   @timrogers
@@ -1724,6 +1725,7 @@
 /extensions/pokedex                                                 @anhthang @miguel-felix1 @anhthang
 /extensions/pokemon-tcg-pocket-binder                               @Azyzraissi
 /extensions/polar                                                   @emilwidlund @xmok
+/extensions/polars-documentation-search                             @Faria22
 /extensions/polished                                                @LekoArts
 /extensions/pollen-count                                            @h16nning
 /extensions/polymarket                                              @0xOsprey @dKloecker
